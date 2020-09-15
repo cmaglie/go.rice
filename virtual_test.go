@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/GeertJohan/go.rice/embedded"
+	"github.com/cmaglie/go.rice/embedded"
 	"github.com/stretchr/testify/require"
 )
 
